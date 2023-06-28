@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science PhD student in the [EconCS](https://econcs.seas.harvard.edu) and [Theory](https://toc.seas.harvard.edu/) groups at Harvard University. I am extremely fortunate to be advised by [Ariel Procaccia](http://procaccia.info) and [Yannai Gonczarowski](http://yannai.gonch.name/scientific/), and am supported by a NSF Graduate Research Fellowship.
-
-I completed my undergraduate degree in Computer Science at Princeton University, where I had the pleasure of working with [Matt Weinberg](https://www.cs.princeton.edu/~smattw/) and [Ben Raphael](https://lsi.princeton.edu/ben-raphael). After graduation, I spent a year working as a quantative research engineer at [Citadel](https://www.citadel.com/what-we-do/global-quantitative-strategies/). Before joining Harvard, I was lucky to work with [Samir Khuller](https://www.samirkhuller.com/) and [Sami Davies](http://samidavies.com/) as a visiting student at Northwestern University. 
+I am a first year PhD student in the [Harvard Statistics Department](https://statistics.fas.harvard.edu/) advised by [Lucas Janson](http://lucasjanson.fas.harvard.edu/). I completed my undergraduate degree at Princeton University in Operations Research and Financial Engineering (ORFE), where I was lucky  to work with [Miklos Racz](https://racz.statistics.northwestern.edu/). After graduating, I worked as a quantitative researcher at Radix Trading.
 
