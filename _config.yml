@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shirley Zhang"
+title                    : "Ben Schiffer"
 title_separator          : "-"
-name                     : &name "Shirley Zhang"
-description              : &description "CS PhD student at Harvard University"
-url                      : https://shirleykzhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ben Schiffer"
+description              : &description "Statistics PhD student at Harvard University"
+url                      : https://bschiffer1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shirleykzhang.github.io"
+repository               : "bschiffer1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shirley Zhang"
-  avatar           : "shirley_headshot.jpg"
-  bio              : "CS PhD student at Harvard University"
+  name             : "Ben Schiffer"
+  avatar           : "ben_headshot.jpg"
+  bio              : "PhD student in Statistics at Harvard University"
   location         : "Boston, Massachusetts"
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : # szhang2 [at] g [dot] harvard [dot] edu
+  email            :  bschiffer1 [at] g [dot] harvard [dot] edu
   researchgate     :  
   uri              :
   bitbucket        :
