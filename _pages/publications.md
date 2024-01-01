@@ -9,12 +9,12 @@ author_profile: true
 
 **The Distortion of Binomial Voting Defies Expectation**  
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
-_Working Paper_  
+_NeurIPS 2023_  
 [[pdf]](/files/expdistortion.pdf)  
 
 **Approximate Trace Reconstruction**  
 Sami Davies, Miklós Z Rácz, Cyrus Rashtchian, Benjamin G Schiffer  
-_2021 IEEE International Symposium on Information Theory_  
+_IEEE International Symposium on Information Theory 2021_  
 [[pdf]](/files/approximate_trace_reconstruction.pdf)  
 
 **Finding a planted clique by adaptive probing**  
