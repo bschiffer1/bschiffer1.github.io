@@ -7,15 +7,15 @@ author_profile: true
 
 (Authors listed alphabetically)
 
-**Honor Among Bandits: No-Regret Learning for Online Fair Division**  
-Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
-_Working Paper_  
-[[pdf]](/files/honor.pdf)  
-
 **Multi-Apartment Rent Division**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _Working Paper_  
 [[pdf]](/files/2403.08051v1.pdf)  
+
+**Honor Among Bandits: No-Regret Learning for Online Fair Division**  
+Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+_NeurIPS 2024 - **Spotlight Paper**_  
+[[pdf]](/files/honor.pdf)  
 
 **The Distortion of Binomial Voting Defies Expectation**  
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
