@@ -5,7 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-(Authors listed alphabetically)
+(Authors listed alphabetically unless not)
+
+**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**  
+Ben Schiffer and Lucas Janson  
+_Working Paper_  
+[[pdf]](/files/Stronger_Regret_Bounds_For_Safe_Online_Reinforcement_Learning-Schiffer_Janson-2024.pdf)  
 
 **Multi-Apartment Rent Division**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
