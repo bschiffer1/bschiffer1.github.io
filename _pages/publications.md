@@ -12,15 +12,26 @@ Ben Schiffer and Lucas Janson
 _Working Paper_  
 [[pdf]](/files/Stronger_Regret_Bounds_For_Safe_Online_Reinforcement_Learning-Schiffer_Janson-2024.pdf)  
 
-**Multi-Apartment Rent Division**  
+
+**Clone-Robust AI Alignment**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _Working Paper_  
-[[pdf]](/files/2403.08051v1.pdf)  
+[[pdf]](/files/rlhf.pdf)  
+
+**Improved Regret Bounds for Online Fair Division with Bandit Learning**  
+Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+_AAAI 2025_  
+[[pdf]](/files/2501.07022.pdf)  
+
+**Multi-Apartment Rent Division**  
+Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+_AAAI 2025_  
+[[pdf]](/files/2403.08051v2.pdf)  
 
 **Honor Among Bandits: No-Regret Learning for Online Fair Division**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _NeurIPS 2024 - **Spotlight Paper**_  
-[[pdf]](/files/honor.pdf)  
+[[pdf]](/files/2407.01795v3.pdf)  
 
 **The Distortion of Binomial Voting Defies Expectation**  
 Yannai Gonczarowski, Gregory Kehne, Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
