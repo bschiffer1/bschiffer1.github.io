@@ -7,19 +7,19 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**  
-Ben Schiffer and Lucas Janson  
-_Working Paper_  
-[[pdf]](/files/Stronger_Regret_Bounds_For_Safe_Online_Reinforcement_Learning-Schiffer_Janson-2024.pdf)  
-
 
 **Clone-Robust AI Alignment**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _Working Paper_  
 [[pdf]](/files/rlhf.pdf)  
 
+**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**  
+Ben Schiffer and Lucas Janson  
+_Working Paper_  
+[[pdf]](/files/Stronger_Regret_Bounds_For_Safe_Online_Reinforcement_Learning-Schiffer_Janson-2024.pdf)  
+
 **Improved Regret Bounds for Online Fair Division with Bandit Learning**  
-Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+Ben Schiffer, Shirley Zhang  
 _AAAI 2025_  
 [[pdf]](/files/2501.07022v1.pdf)  
 
