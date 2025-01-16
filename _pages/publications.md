@@ -21,7 +21,7 @@ _Working Paper_
 **Improved Regret Bounds for Online Fair Division with Bandit Learning**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
 _AAAI 2025_  
-[[pdf]](/files/2501.07022.pdf)  
+[[pdf]](/files/2501.07022v1.pdf)  
 
 **Multi-Apartment Rent Division**  
 Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
