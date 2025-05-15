@@ -8,15 +8,20 @@ author_profile: true
 (Authors listed alphabetically unless not)
 
 
-**Clone-Robust AI Alignment**  
-Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
-_Working Paper_  
-[[pdf]](/files/rlhf.pdf)  
-
-**Stronger Regret Bounds for Safe Online Reinforcement Learning in the Linear Quadratic Regulator**  
+**Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator:  √T Regret**  
 Ben Schiffer and Lucas Janson  
 _Working Paper_  
-[[pdf]](/files/Stronger_Regret_Bounds_For_Safe_Online_Reinforcement_Learning-Schiffer_Janson-2024.pdf)  
+[[pdf]](/files/2504.18657v1.pdf)  
+
+**Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator: Generalized Baselines**  
+Ben Schiffer and Lucas Janson  
+_Working Paper_  
+[[pdf]](/files/2410.21081v2.pdf)  
+
+**Clone-Robust AI Alignment**  
+Ariel D. Procaccia, Ben Schiffer, Shirley Zhang  
+_ICML 2025_  
+[[pdf]](/files/2501.09254v1.pdf)  
 
 **Improved Regret Bounds for Online Fair Division with Bandit Learning**  
 Ben Schiffer, Shirley Zhang  
