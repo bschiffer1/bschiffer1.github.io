@@ -8,6 +8,16 @@ author_profile: true
 (Authors listed alphabetically unless not)
 
 
+**Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts**  
+Ben Schiffer and Mark Sellke 
+_Working Paper_  
+[[pdf]](/files/2506.01685v1.pdf)  
+
+**Metritocracy: Representative Metrics for Lite Benchmarks**  
+Ariel D. Procaccia, Ben Schiffer, Serena Wang, Shirley Zhang  
+_Working Paper_  
+[[pdf]](/files/2506.09813v1.pdf)  
+
 **Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator:  √T Regret**  
 Ben Schiffer and Lucas Janson  
 _Working Paper_  
