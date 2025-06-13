@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts**  
-Ben Schiffer and Mark Sellke 
+Ben Schiffer and Mark Sellke  
 _Working Paper_  
 [[pdf]](/files/2506.01685v1.pdf)  
 
