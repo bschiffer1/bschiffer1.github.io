@@ -21,7 +21,7 @@ _Working Paper 2025_
 
 **Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts**  
 Ben Schiffer and Mark Sellke  
-_NeurIPS 2024 - **Spotlight  (3.1% of submissions)**_  
+_NeurIPS 2025 - **Spotlight  (3.1% of submissions)**_  
 [[pdf]](/files/2506.01685v1.pdf)  
 
 **Metritocracy: Representative Metrics for Lite Benchmarks**  
