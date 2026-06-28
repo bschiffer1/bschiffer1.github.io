@@ -8,16 +8,25 @@ author_profile: true
 (Authors listed alphabetically unless not)
 
 
+**Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator: Generalized Baselines**  
+Ben Schiffer and Lucas Janson  
+_Working Paper 2026_  
+[[pdf]](/files/2410.21081v2.pdf) 
+
+**AI Alignment From Social Choice Perspectives**  
+Daniel Halpern, Evi Micha, Ariel D. Procaccia, Benjamin Schiffer, Itai Shapira, Shirley Zhang  
+_SIGecom Exchanges 2026_  
+[[pdf]](/files/2606.21550v1.pdf)  
+
+**Finding Common Ground in a Sea of Alternatives**  
+Jay Chooi, Paul Gölz, Ariel D. Procaccia, Benjamin Schiffer, Shirley Zhang  
+_EC 2026_  
+[[pdf]](/files/2603.16751v1.pdf)  
 
 **Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator:  √T Regret**  
 Ben Schiffer and Lucas Janson  
-_Working Paper 2025_  
+_L4DC 2026_  
 [[pdf]](/files/2504.18657v1.pdf)  
-
-**Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator: Generalized Baselines**  
-Ben Schiffer and Lucas Janson  
-_Working Paper 2025_  
-[[pdf]](/files/2410.21081v2.pdf) 
 
 **Geometry Meets Incentives: Sample-Efficient Incentivized Exploration with Linear Contexts**  
 Ben Schiffer and Mark Sellke  
