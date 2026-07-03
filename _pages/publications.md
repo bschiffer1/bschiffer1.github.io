@@ -7,7 +7,7 @@ author_profile: true
 
 (Authors listed alphabetically unless not)
 
-
+ 
 **Foundations of Safe Online Reinforcement Learning in the Linear Quadratic Regulator: Generalized Baselines**  
 Benjamin Schiffer and Lucas Janson  
 _Working Paper 2026_  
