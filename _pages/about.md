@@ -12,3 +12,4 @@ I am a fifth year PhD student in the [Harvard Statistics Department](https://sta
 
 Prior to coming to Harvard, I completed my undergraduate degree at Princeton University in Operations Research and Financial Engineering (ORFE), where I worked with [Miklos Racz](https://racz.statistics.northwestern.edu/). After graduating from Princeton, I worked for two years as a quantitative researcher at Radix Trading.
 
+ 
